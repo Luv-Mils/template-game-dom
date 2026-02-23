@@ -1,0 +1,14 @@
+{
+  "id": "template-game-dom",
+  "name": "DOM Game Templates",
+  "version": "1.0.0",
+  "sdk": "1.0",
+  "description": "React/DOM-rendered games using state machines and shared UI components",
+  "category": "game",
+  "chassis": [
+    "idle-clicker",
+    "card-battler",
+    "visual-novel",
+    "trivia-quiz"
+  ]
+}

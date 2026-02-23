@@ -1,9 +1,4 @@
 {
-  "template": "idle-clicker",
-  "sdk_version": "1.0",
-  "defaults": {
-    "layout": "default",
-    "theme": "default",
-    "typography": "default"
-  }
+  "chassis": "idle-clicker",
+  "theme": "midnight"
 }
